@@ -19,6 +19,8 @@
   <a href="mailto:dilwill@ostatemail.okstate.edu"><img src="https://img.shields.io/badge/Dillon%20Williams-Email-important?logo=Minutemailer" alt=":email:"/></a>
   <a href="https://www.linkedin.com/in/dillon-williams-273000220/"><img src="https://img.shields.io/badge/My-Linkedin-informational?logo=linkedin" alt=":linkedin:"/></a>
   <a href="http://github.com/DillonRmD/"><img src="https://img.shields.io/badge/DillonRmD-github-black?logo=github" alt=":linkedin:"/></a>
+
+  <h3> Oh! Also check out <a href="https://dillonrmd.github.io/">my website </a>I made using ReactJS! </h3>
 </div>
 
 <br />
