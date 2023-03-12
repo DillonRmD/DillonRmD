@@ -3,15 +3,13 @@
   <br />
   <h2> Here's a little about me! </h3>
   <u1>
-    <li>:man_student:I'm a senior computer science student studying at Oklahoma State University!</li>
-    <ul>:partying_face:Expected Graduation: December 2022!!!!</ul>
-    <li>:scientist:I am currently working in a particle physics research lab, investigating the existence of new fundamental particles (super epic)!</li>
-    <ul>:abacus:Actively working on a machine learning classification system, to better classify different particles</ul>
+    <li>:computer:Working professionally as a full-stack software developer at a Fortune-500 company
+    <li>:school:Bachelor's of Computer Science
     <li>:movie_camera:Avid star wars fan (yes, even the prequels)!</li>
     <li>:nerd_face:"Funko Pop!" Collector (it's starting to become obsessive).</li>
     <li>:trumpet:Elite trombonist</li>
     <li>:saxophone:Significantly less elite saxophonist</li> 
-    <li>:brain:Always looking to learn new things in software, math, and physics!/li>
+    <li>:brain:Always looking to learn new things about the world!/li>
   </ul>
     
   <h3>Let's get to know each other!</h3>
