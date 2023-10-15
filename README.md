@@ -1,27 +1,12 @@
 <div align="center">
 <h1>What's up! My name is Dillon Williams 👋</h1>
   <br />
-  <h2> Here's a little about me! </h3>
-  <u1>
-    <li>:computer:Working professionally as a full-stack software developer at a Fortune-500 company
-    <li>:school:Bachelor's of Computer Science
-    <li>:movie_camera:Avid star wars fan (yes, even the prequels)!</li>
-    <li>:nerd_face:"Funko Pop!" Collector (it's starting to become obsessive).</li>
-    <li>:trumpet:Elite trombonist</li>
-    <li>:saxophone:Significantly less elite saxophonist</li> 
-    <li>:brain:Always looking to learn new things about the world!/li>
-  </ul>
-    
   <h3>Let's get to know each other!</h3>
   <a href="https://twitter.com/itsssdillon"><img src="https://img.shields.io/badge/itsssdillon-twitter-blue?logo=twitter" alt=":twitter:"/></a>
   <a href="mailto:dilwill@ostatemail.okstate.edu"><img src="https://img.shields.io/badge/Dillon%20Williams-Email-important?logo=Minutemailer" alt=":email:"/></a>
   <a href="https://www.linkedin.com/in/dillon-williams-273000220/"><img src="https://img.shields.io/badge/My-Linkedin-informational?logo=linkedin" alt=":linkedin:"/></a>
-  <a href="http://github.com/DillonRmD/"><img src="https://img.shields.io/badge/DillonRmD-github-black?logo=github" alt=":linkedin:"/></a>
-
   <h3> Oh! Also check out <a href="https://dillonrmd.github.io/">my website </a>I made using ReactJS! </h3>
 </div>
-
-<br />
 <br />
 
 <div align="center">
