@@ -66,27 +66,6 @@
   
   <br />
   <br />
-  
-  <h3>Databases</h3>
-  <img width=50 height=50 src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
-  
-  <br />
-  <br />
-  
-  <h3>Operating systems</h3>
-  <img width=50 height=50 src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/apple/apple-original.svg" alt="apple-os" />
-  <img width=50 height=50 src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" alt="linux" />
-  <img width=50 height=50 src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/windows8/windows8-original.svg" alt="windows" />
-  <br />
-  <br />
-  
-  <h3>Currently learning (personal and academic!)</h3>
-  <img width=50 height=50 src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dart/dart-original-wordmark.svg" alt="dart" />
-  <img width=15 height=50 src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg" alt="flutter" />
-  <img width=50 height=50 src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin"/>
-  <img width=50 height=50 src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/swift/swift-original-wordmark.svg" alt="swift" />
-    <img width=30 height=50 src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" alt="ts"/>
-
 </div>
 
 <br />
