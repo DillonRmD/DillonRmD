@@ -67,17 +67,6 @@
   <br />
   <br />
 </div>
-
-<br />
-<br />
-<br />
-
-<div align="center">
-<div style="display: flex; align-items: center; justify-content: center;">
-
-[![](https://github-readme-stats.vercel.app/api?username=DillonRmD&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/DillonRmD)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=DillonRmD&theme=tokyonight&hide_border=true)](https://github.com/DillonRmD)
-
 </div>
 </div>
 
